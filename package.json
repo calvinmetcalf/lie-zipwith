@@ -28,6 +28,8 @@
     "lie-resolve": "~0.1.0"
   },
   "dependencies": {
-    "lie-zip": "~0.1.0"
+    "lie-quickmap": "~0.1.2",
+    "lie-quickeach": "~0.1.1",
+    "lie-map": "~0.1.2"
   }
 }
